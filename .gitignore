@@ -1,6 +1,5 @@
 /node_modules
 /prisma
 /src/generated
-/src/prisma.js
 /.graphqlconfig
 /.env
